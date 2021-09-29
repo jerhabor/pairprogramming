@@ -2,6 +2,9 @@ test file
 
 <<<<<<< HEAD
 Addition text part 1
+<<<<<<< HEAD
 A third line of text.
 =======
 >>>>>>> parent of a53d3d0 (Added addition text 1)
+=======
+>>>>>>> parent of fd9531e (A third line of text added.)
