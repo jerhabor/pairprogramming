@@ -1,3 +1,4 @@
 test file
 
 Addition text part 1
+A third line of text.
